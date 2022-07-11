@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="app.label" datatype="html">
+        <source>Application label</source>
+        <target>Application label EN</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/i18n-application/src/app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="app.button" datatype="html">
+        <source>Application Button</source>
+        <target>Application Button EN</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/i18n-application/src/app/app.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="library.label2" datatype="html">
+        <source>Library label</source>
+        <target>Library label EN</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/i18n-library/src/lib/my-i18n-component/my-i18n-component.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="library.button" datatype="html">
+        <source>Library Button</source>
+        <target>Library Button UK5</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../dist/i18n-library/lib/my-i18n-component/my-i18n-component.component.d.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
